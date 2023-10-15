@@ -53,10 +53,6 @@
                 </fieldset>
             </form>
         </div>
-        <div class="container text-center mt-3" >
-            <form action="MotDePasse.jsp" method="get">
-                <input type="submit" class="btn btn-secondary"  value="Mot de passe Oublié">
-            </form>
-        </div>
+
     </body>
 </html>
