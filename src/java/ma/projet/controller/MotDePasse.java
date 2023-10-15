@@ -45,7 +45,7 @@ public class MotDePasse extends HttpServlet {
             int max = 9999; 
 
             int randomNumber = random.nextInt((max - min) + 1) + min;
-            String corpEmail="Voila votre nouveau Code:"+randomNumber;
+            String corpEmail="Voila votre  Code:"+randomNumber;
             clt.setCode(randomNumber);
             cs.update(clt);
             EmailSender.sendEmail(email, "Recuperation de mot de passe", corpEmail);
