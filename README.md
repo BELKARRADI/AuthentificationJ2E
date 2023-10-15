@@ -1,5 +1,4 @@
 # AuthentificationJ2E
-<img width="958" alt="Capture d'écran 2023-10-15 155013" src="https://github.com/BELKARRADI/AuthentificationJ2E/assets/125222396/cba4111f-2d39-4267-8cd6-085aaa00ff29">
 
 <img width="960" alt="Capture d'écran 2023-10-15 155143" src="https://github.com/BELKARRADI/AuthentificationJ2E/assets/125222396/e5490581-d5fe-480f-9fe2-e921bbd0c6f6">
 <img width="959" alt="Capture d'écran 2023-10-15 155213" src="https://github.com/BELKARRADI/AuthentificationJ2E/assets/125222396/fc8e5078-87e8-4554-8b54-7b52f1249c0a">
